@@ -1,1 +1,2 @@
-this repo is for AIML algorithms
+This repo is for AIML algorithms
+Academics
